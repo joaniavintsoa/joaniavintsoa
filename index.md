@@ -8,7 +8,7 @@
 [CO2 Emissions](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Econometrics and TS Models
+### Time Series Models
 ---
 [NOx Measurement in Italy](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -20,10 +20,10 @@
 
 ---
 
-### Category Name 2
+### List of projects
 
 - [ML : House pricing in Melbourne : Which ML algo performs better ?](http://example.com/)
-- [DL : CNN on MNIST] (http://example.com/)
+- [DL : CNN on MNIST](http://example.com/)
 - [Unsupervised ML : Credit card users segmentation](http://example.com/)
 - [EDA : CO2 and fuels](http://example.com/)
 - [Data preprocessing : CO2 Emissions](http://example.com/)
