@@ -1,29 +1,32 @@
-## Portfolio
+# Portfolio
 
 ---
+## Some plotting of my projects
+---
+### From Data Processing to EDA
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[CO2 Emissions](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### Econometrics and TS Models
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NOx Measurement in Italy](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### Machine learning : Supervised and Unsupervised
 ---
-[Project 3 Title](http://example.com/)
+[House pricing in Melbourne](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [ML : House pricing in Melbourne : Which ML algo performs better ?](http://example.com/)
+- [DL : CNN on MNIST] (http://example.com/)
+- [Unsupervised ML : Credit card users segmentation](http://example.com/)
+- [EDA : CO2 and fuels](http://example.com/)
+- [Data preprocessing : CO2 Emissions](http://example.com/)
 
 ---
 
