@@ -16,7 +16,7 @@
 ### Unsupervised Machine learning 
 ---
 [Credit Card user segmentation](http://example.com/)
-<img src="images/Unsupervised.png?raw=true"/>
+<img src="images/Unsupervised.png?raw=true"/ height=400 width = 300>
 
 ---
 
