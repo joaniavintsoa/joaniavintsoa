@@ -24,7 +24,7 @@
 
 - [ML : House pricing in Melbourne : Which ML algo performs better ?](http://example.com/)
 - [DL : CNN on MNIST](http://example.com/)
-- [Unsupervised ML : Credit card users segmentation](http://example.com/)
+- [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx#scrollTo=9qdd9P5j7n4z)
 - [EDA : CO2 and fuels](http://example.com/)
 - [Data preprocessing : CO2 Emissions](http://example.com/)
 
