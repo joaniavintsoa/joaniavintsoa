@@ -11,7 +11,7 @@
 ### Time Series Models
 ---
 [NOx Measurement in Italy](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/timeseries.png?raw=true"/>
 
 ### Machine learning : Supervised and Unsupervised
 ---
