@@ -11,12 +11,12 @@
 ### Time Series Models
 ---
 [NOx Measurement in Italy](/pdf/sample_presentation.pdf)
-<img src="images/timeseries.png?raw=true"/>
+<img src="images/timeseries.png?raw=true" height ="600" width="350 />
 
 ### Unsupervised Machine learning 
 ---
 [Credit Card user segmentation](http://example.com/)
-<img src="images/Unsupervised.png?raw=true" height="350" width ="300"/>
+<img src="images/Unsupervised.png?raw=true" height="600" width ="375"/>
 
 ---
 
