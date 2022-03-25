@@ -5,7 +5,7 @@
 ---
 ### From Data Processing to EDA
 
-[CO2 Emissions](/sample_page)
+[OECD Countries CO2 Emissions](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Time Series Models
@@ -13,10 +13,10 @@
 [NOx Measurement in Italy](/pdf/sample_presentation.pdf)
 <img src="images/timeseries.png?raw=true"/>
 
-### Machine learning : Supervised and Unsupervised
+### Unsupervised Machine learning 
 ---
-[House pricing in Melbourne](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Credit Card user segmentation](http://example.com/)
+<img src="images/Unsupervised.png?raw=true"/>
 
 ---
 
