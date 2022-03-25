@@ -5,17 +5,17 @@
 ---
 ### From Data Processing to EDA
 
-[OECD Countries CO2 Emissions](/sample_page) <br>
+[OECD Countries CO2 Emissions : France Emissions per sector](/sample_page) <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Time Series Models
 ---
-[NOx Measurement in Italy](/pdf/sample_presentation.pdf) <br>
+[NOx Measurement in Italy : Log forecast of a SARIMA Model](/pdf/sample_presentation.pdf) <br>
 <img src="images/timeseries.png?raw=true" height ="250" width="350" />
 
 ### Unsupervised Machine learning 
 ---
-[Credit Card user segmentation](http://example.com/) <br>
+[Credit Card user segmentation : K-Means](http://example.com/) <br>
 <img src="images/Unsupervised.png?raw=true" height="250" width ="300"/>
 
 ---
