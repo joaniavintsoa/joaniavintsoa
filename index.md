@@ -22,12 +22,12 @@
 
 ### List of projects
 
-- [ML : House pricing in Melbourne : Which ML algo performs better ?](http://example.com/)
-- [DL : CNN on MNIST](http://example.com/)
-- [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx#scrollTo=9qdd9P5j7n4z)
-- [EDA : CO2 and fuels](http://example.com/)
+- [ML : House pricing in Melbourne : Which ML algo performs better ?](https://colab.research.google.com/drive/1y7hQvXmMNbBWfBO94le-MOy3gq2NBR0d?usp=sharing)
+- [DL : CNN on MNIST](https://colab.research.google.com/drive/1MFj-hIse6gHaPeTtPCmdUGHYJ_9RxKsB?usp=sharing)
+- [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx?usp=sharing)
+- [EDA : CO2, GDP and fuels](https://colab.research.google.com/drive/1NoHHlhQH0jPKyYirLYS5Bf84HmhraynC?usp=sharing)
 - [Data preprocessing : CO2 Emissions](http://example.com/)
-
+- [Time series : SARIMA Model on Nox forecast](https://colab.research.google.com/drive/1UFQD-cWpBKcUVHpOPs13ofsHjkE5cH4T?usp=sharing)
 ---
 
 
