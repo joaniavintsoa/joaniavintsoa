@@ -26,7 +26,7 @@
 - [DL : CNN on MNIST](https://colab.research.google.com/drive/1MFj-hIse6gHaPeTtPCmdUGHYJ_9RxKsB?usp=sharing)
 - [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx?usp=sharing)
 - [EDA : CO2, GDP and fuels](https://colab.research.google.com/drive/1NoHHlhQH0jPKyYirLYS5Bf84HmhraynC?usp=sharing)
-- [Data preprocessing : CO2 Emissions](http://example.com/)
+- [EDA : OECD countries emissions per sector](http://example.com/)
 ---
 
 
