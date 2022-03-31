@@ -11,7 +11,7 @@
 ### Time Series Models
 ---
 [NOx Measurement in Italy : Log forecast of a SARIMA Model](/pdf/sample_presentation.pdf) <br>
-<img src="images/timeseries.png?raw=true" height ="250" width="350" />
+<img src="images/tsforecast.png?raw=true" height ="250" width="350" />
 
 ### Unsupervised Machine learning 
 ---
