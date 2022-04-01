@@ -27,10 +27,6 @@
 - [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx?usp=sharing)
 - [EDA : CO2, GDP and fuels](https://colab.research.google.com/drive/1NoHHlhQH0jPKyYirLYS5Bf84HmhraynC?usp=sharing)
 - [EDA and simple linear regression : OECD countries emissions per sector](https://colab.research.google.com/drive/1rZh1P5zIIqsPDOrxBxpggjNQkwIEgUR5?usp=sharing)
----
-
-
-
 
 ---
 <p style="font-size:13px">Linkedin : <a href="https://fr.linkedin.com/in/joan-i-56290a192">Joan Iavintsoa</a></p>
