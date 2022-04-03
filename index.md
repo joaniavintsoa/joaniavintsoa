@@ -5,7 +5,7 @@
 ---
 ### From Data Processing to EDA
 
-[OECD Countries CO2 Emissions : France Emissions per sector]https://colab.research.google.com/drive/1gUfOTpb88hRt2P6bvNHkS4Zdpak5o3lJ?usp=sharing <br>
+[OECD Countries CO2 Emissions : France Emissions per sector](https://colab.research.google.com/drive/1gUfOTpb88hRt2P6bvNHkS4Zdpak5o3lJ?usp=sharing) <br>
 <img src="images/OECDem.png?raw=true"/>
 
 ### Time Series Models
@@ -26,7 +26,7 @@
 - [DL : CNN on MNIST](https://colab.research.google.com/drive/1MFj-hIse6gHaPeTtPCmdUGHYJ_9RxKsB?usp=sharing)
 - [Unsupervised ML : Credit card users segmentation](https://colab.research.google.com/drive/1U2KOHruwA9VT5NRCMaM7ya5YSDa9vSZx?usp=sharing)
 - [EDA and simple linear regression : CO2, GDP and fuels](https://colab.research.google.com/drive/1NoHHlhQH0jPKyYirLYS5Bf84HmhraynC?usp=sharing)
-- [EDA : OECD countries emissions per sector]https://colab.research.google.com/drive/1gUfOTpb88hRt2P6bvNHkS4Zdpak5o3lJ?usp=sharing
+- [EDA : OECD countries emissions per sector](https://colab.research.google.com/drive/1gUfOTpb88hRt2P6bvNHkS4Zdpak5o3lJ?usp=sharing)
 
 ---
 <p style="font-size:13px">Linkedin : <a href="https://fr.linkedin.com/in/joan-i-56290a192">Joan Iavintsoa</a></p>
