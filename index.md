@@ -6,7 +6,7 @@
 ### From Data Processing to EDA
 
 [OECD Countries CO2 Emissions : France Emissions per sector](https://colab.research.google.com/drive/1gUfOTpb88hRt2P6bvNHkS4Zdpak5o3lJ?usp=sharing) <br>
-<img src="images/OECDem.png?raw=true"/>
+<img src="images/France_em.png?raw=true"/>
 
 ### Time Series Models
 ---
